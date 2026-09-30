@@ -17,6 +17,8 @@ public class Testinn2 {
         // TODO code application logic here
         
         System.out.println("HAHAHAH");
+        
+        System.out.println("pagod na pagod na ako sa buhay ko, thanks, ayoko na");
     }
     
 }
